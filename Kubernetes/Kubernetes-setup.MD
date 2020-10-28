@@ -64,7 +64,7 @@
     kops update cluster demo.k8s.mayday.net --yes
     ```
 
-1. Validate your cluster
+1. Validate your cluster (This step might take up to complete before validation can be completed)
      ```sh
       kops validate cluster
     ```
